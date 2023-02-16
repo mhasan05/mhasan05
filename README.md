@@ -13,9 +13,10 @@ My name is Md Mehedi Hasan and I am a backend python, django developer. I have a
 
 ### 📫 How to reach me...
 
+Website: https://teamerror.net
 Email: teamerror.net@gmail.com
-
 Linkedin: https://www.linkedin.com/in/mehedi05/
+Twitter: https://twitter.com/teamerror_net
 
 <!--
 **teamerror-net/teamerror-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
