@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Md Mehedi Hasan and I am a backend python, django developer. I have a passion for building scalable, efficient, and secure systems. I have 2 years of experience in the software development industry, with a focus on python and its various frameworks such as Django and Flask. I am well-versed in database management, API development, and server-side logic. In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I am excited to connect with other developers and continue to learn and grow in the field of software development.
+My name is Md Mehedi Hasan and I am a backend python, django developer. I have a passion for building scalable, efficient, and secure systems. I have 1 years of experience in the software development industry, with a focus on python and its various frameworks such as Django and Flask. I am well-versed in database management, API development, and server-side logic. In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I am excited to connect with other developers and continue to learn and grow in the field of software development.
 
 ### 🔭 I’m currently working on ...
 
