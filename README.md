@@ -15,7 +15,7 @@ My name is Mehedi Hasan and I am a back-end developer. I have a passion for buil
 
 Website: https://teamerror.net
 
-Email: teamerror.net@gmail.com
+Email: toxicmehedi@gmail.com
 
 Linkedin: https://www.linkedin.com/in/mehedi05/
 
