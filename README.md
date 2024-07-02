@@ -19,7 +19,6 @@ Email: toxicmehedi@gmail.com
 
 Linkedin: https://www.linkedin.com/in/mehedi05/
 
-Twitter: https://twitter.com/teamerror_net
 
 <!--
 **teamerror-net/teamerror-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
