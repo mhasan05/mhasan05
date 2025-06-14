@@ -5,7 +5,7 @@ My name is Mehedi Hasan and I am a back-end developer. I have a passion for buil
 ### 🔭 I’m currently working on ...
 
 * Writing server-side code using Python, Django, Django Rest Framework(DRF)
-* Creating and maintaining databases, such as MySQL, SQLite
+* Creating and maintaining databases, such as MySQL, PostgreSQL, SQLite
 * Building APIs that allow different systems to communicate with each other
 * Ensuring the security and scalability of the website or web application
 * Optimizing the performance of the website or web application
