@@ -15,7 +15,7 @@ My name is Mehedi Hasan and I am a back-end developer. I have a passion for buil
 
 Website: [https://mehedidev.pythonanywhere.com](https://mehedidev.pythonanywhere.com)
 
-Email: mhasan.dev2021@gmail.com
+Email: mhasan.devs@gmail.com
 
 Linkedin: https://www.linkedin.com/in/mehedi05/
 
