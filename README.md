@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Mehedi Hasan**
 
-a **Backend Developer** with **1.8+ years of professional experience** specializing in building **scalable, secure, and high-performance backend systems**. I work extensively with **Python**, **Django**, and **Django REST Framework**, delivering clean architectures and production-ready solutions.
+I am a **Backend Developer** with **1.8+ years of professional experience** specializing in building **scalable, secure, and high-performance backend systems**. I work extensively with **Python**, **Django**, and **Django REST Framework**, delivering clean architectures and production-ready solutions.
 
 ---
 
