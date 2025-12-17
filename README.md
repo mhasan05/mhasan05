@@ -1,36 +1,66 @@
-### Hi there 👋
+# 👋 Hi, I’m **Mehedi Hasan**
+### Senior Backend Engineer | Python • Django • REST APIs • Scalable Systems
 
-My name is Mehedi Hasan and I am a back-end developer. I have a passion for building scalable, efficient, and secure systems. I have 1.8+ years of experience in the software development industry, with a focus on python and its various frameworks such as Django and Flask. I am well-versed in database management, API development, and server-side logic. In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I am excited to connect with other developers and continue to learn and grow in the field of software development.
+I am a **Backend Developer** with **1.8+ years of professional experience** specializing in building **scalable, secure, and high-performance backend systems**. I work extensively with **Python**, **Django**, and **Django REST Framework**, delivering clean architectures and production-ready solutions.
 
-### 🔭 I’m currently working on ...
+---
 
-* Writing server-side code using Python, Django, Django Rest Framework(DRF)
-* Creating and maintaining databases, such as MySQL, PostgreSQL, SQLite
-* Building APIs that allow different systems to communicate with each other
-* Ensuring the security and scalability of the website or web application
-* Optimizing the performance of the website or web application
-* Collaborating with front-end developers to ensure a seamless user experience
+## 🧠 Professional Summary (For Recruiters)
 
-### 📫 How to reach me...
+- 1.8+ years of hands-on backend development experience  
+- Strong expertise in Python, Django, Django REST Framework (DRF)  
+- Proven experience designing RESTful APIs for web & mobile apps  
+- Skilled in PostgreSQL, MySQL, and SQLite  
+- Security-focused and performance-driven mindset  
 
-Website: [https://mehedidev.pythonanywhere.com](https://mehedidev.pythonanywhere.com)
+---
 
-Email: mhasan.devs@gmail.com
+## 🛠️ Tech Stack
 
-Linkedin: https://www.linkedin.com/in/mehedi05/
+### Backend & APIs
+- Python
+- Django
+- Django REST Framework
+- Flask
+- FastAPI
 
+### Databases
+- PostgreSQL
+- MySQL
+- SQLite
+- MongoDB
 
-<!--
-**teamerror-net/teamerror-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools & Practices
+- Git & GitHub
+- Docker
+- Redis
+- Websocket
+- Linux
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I’m Currently Working On
+
+- Building production-grade backend systems using Django & DRF  
+- Designing secure and scalable REST APIs  
+- Database optimization and performance tuning  
+- Authentication, authorization, and RBAC  
+- Collaboration with frontend and mobile teams  
+
+---
+
+## 🌱 Continuous Learning
+
+- Advanced Django & DRF architecture  
+- Backend system design & scalability  
+- Performance optimization  
+
+---
+
+## 📫 Get in Touch
+
+- Website: https://mehedidev.pythonanywhere.com  
+- Email: mhasan.devs@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mehedi05/  
+
+⭐ Open to full-time, remote, and freelance backend opportunities.
